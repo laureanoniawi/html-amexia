@@ -1,0 +1,9 @@
+{
+  "id": "d2d35456-d884-46d6-bca6-90edddc2bd07",
+  "category": "text",
+  "name": "TM04-12-v4.2",
+  "shortName": "TM04-12",
+  "description": "Módulo de oferta con texto, logo y CTA",
+  "insertionHint": "Insertar en zona de contenido entre hero y footer",
+  "updatedAt": "2026-04-10T21:01:46.866996+00:00"
+}
