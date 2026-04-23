@@ -1,0 +1,9 @@
+{
+  "id": "399851d1-3cc8-4256-960d-adff90615f9a",
+  "category": "brand",
+  "name": "01_BRAND-PANEL-MERCHANT",
+  "shortName": "BP MERCHANT",
+  "description": "Header Merchant con logo, datos de cuenta y botón Mi cuenta",
+  "insertionHint": "Insertar inmediatamente después del wrapper exterior",
+  "updatedAt": "2026-04-10T21:01:46.866996+00:00"
+}
