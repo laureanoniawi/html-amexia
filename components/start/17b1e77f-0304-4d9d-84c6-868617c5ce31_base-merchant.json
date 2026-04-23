@@ -1,0 +1,9 @@
+{
+  "id": "17b1e77f-0304-4d9d-84c6-868617c5ce31",
+  "category": "start",
+  "name": "START-BASE-MERCHANT",
+  "shortName": "BASE-MERCHANT",
+  "description": "Template base completo (START-BASE-MERCHANT)",
+  "insertionHint": "Template base — usar como estructura completa del email",
+  "updatedAt": "2026-04-15T12:30:27.871442+00:00"
+}
