@@ -3,7 +3,7 @@
 > ⚠️ Este repositorio se genera automáticamente. **No editar a mano** — los cambios serán sobrescritos.
 > Fuente de la verdad: la plataforma Lovable AMEXIA.
 
-**Total:** 55 componentes • Última actualización: 2026-04-23T09:33:57.224Z
+**Total:** 55 componentes • Última actualización: 2026-04-28T17:59:04.579Z
 
 ## brand (4)
 
